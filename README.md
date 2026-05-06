@@ -2,6 +2,8 @@
 
 **Computational Linguistics II Project – A.Y. 2024/2025** **Author:** Matilde Viti
 
+### [Read the full report](https://github.com/matildeviti22/Autorship-Attribution-Computational-Linguistics/blob/main/RELAZIONE_VITI_LC2%20copia.pdf)
+
 ## Project Overview
 This project addresses the task of **Authorship Attribution**: identifying the author of a text based on their unique linguistic "fingerprint." The study focuses on classifying literary paragraphs from three iconic English novelists: **Charlotte Brontë**, **George Eliot**, and **Jane Austen**.
 
